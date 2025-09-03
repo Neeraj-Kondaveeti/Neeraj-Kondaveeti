@@ -3,7 +3,7 @@
 🚀 Software Engineer | Full-Stack (MERN) | Data Science | Cloud Enthusiast  
 
 - 🔭 Working on: HighestGoodNetwork (open-source) & AI-powered SaaS projects  
-- 🌱 Learning: System Design, DBMS Internals, and Advanced Cloud Computing  
+- 🌱 Learning: System Design, DBMS Internals, Data Structures & Algorithms (DSA), and Advanced React  
 - 💡 Interested in: Scalable Web Apps, ML for Geospatial Data, Open Source Contributions  
 - 📫 Reach me: [LinkedIn](https://linkedin.com/in/neeraj-kondaveeti) | nkondav@iu.edu  
 
