@@ -5,7 +5,7 @@
 - 🔭 Working on: HighestGoodNetwork (open-source) & AI-powered SaaS projects  
 - 🌱 Learning: System Design, DBMS Internals, Data Structures & Algorithms (DSA), and Advanced React  
 - 💡 Interested in: Scalable Web Apps, ML for Geospatial Data, Open Source Contributions  
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/neeraj-kondaveeti) | nkondav@iu.edu  
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/neeraj-kondaveeti-806b67208/) | nkondav@iu.edu  
 
 ---
 
