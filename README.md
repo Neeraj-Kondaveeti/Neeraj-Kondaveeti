@@ -1,6 +1,6 @@
 # Hi, I'm Neeraj 👋
 
-🚀 Software Engineer | Full-Stack (MERN) | Data Science | Cloud Enthusiast  
+🚀 Software Engineer | Full-Stack (MERN) | Data Science | Data Analysis | Cloud Enthusiast  
 
 - 🔭 Working on: HighestGoodNetwork (open-source) & AI-powered SaaS projects  
 - 🌱 Learning: System Design, DBMS Internals, Data Structures & Algorithms (DSA), and Advanced React  
