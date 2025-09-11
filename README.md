@@ -10,8 +10,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Neeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neeraj-Kondaveeti&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj-Kondaveeti&layout=compact&theme=radical)  
+![Neeraj's GitHub stats](https://github-readme-stats-9lee1uvia-neerajs-projects-789bf887.vercel.app/api?username=Neeraj-Kondaveeti&show_icons=true&theme=radical&cache_seconds=1800) 
+![Top Langs](https://github-readme-stats-9lee1uvia-neerajs-projects-789bf887.vercel.app/api/top-langs/?username=Neeraj-Kondaveeti&layout=compact&theme=radical) 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Neeraj-Kondaveeti&theme=radical)  
 
 ---
