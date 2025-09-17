@@ -15,8 +15,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj-Kondaveeti&layout=compact&theme=radical)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Neeraj-Kondaveeti&theme=radical)
-
 
 ---
 
