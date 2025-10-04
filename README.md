@@ -48,11 +48,11 @@ Currently exploring **system scalability, DevOps automation, and AI-powered appl
 ![trophy](https://github-profile-trophy.vercel.app/?username=Neeraj-Kondaveeti&theme=onedark&row=1)
 
 ---
-
 ## 🚀 Highlight Projects
 - [**ECommerce MERN**](https://github.com/Neeraj-Kondaveeti/ECommerce_MERN-) – Full-stack platform with **Stripe payments** and **Redux** state management.  
-- [**Background Remover SaaS**](https://github.com/Neeraj-Kondaveeti/BackGround-Remover-App) – **AI-powered** image background removal with sub-2s processing.  
+- [**Background Remover SaaS**](https://github.com/Neeraj-Kondaveeti/BackGround-Remover-App) – **AI-powered** image background remover with sub-2s processing.  
 - [**Automated Archaeological Detection**](https://github.com/Neeraj-Kondaveeti/Projects/tree/main/Automatic%20Mounds%20Detection) – **YOLOv5 + Geospatial ML pipeline** for remote-sensing automation.  
+- [**AI-Powered Calendar Application**](https://github.com/Neeraj-Kondaveeti/lawbandit-syllabus-calendar) – Parses **syllabus PDFs** into calendar events using **OpenAI GPT** and the **Google Calendar API**, automating academic scheduling.  
 
 ---
 
