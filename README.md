@@ -144,6 +144,12 @@ Currently contributing to **open-source analytics platforms** and **AI-powered S
 </p>
 
 ---
+## 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neeraj-Kondaveeti&bg_color=0d1117&color=00C2CB&line=00C2CB&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+---
 
 ## 📬 Contact  
 
