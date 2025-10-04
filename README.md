@@ -144,7 +144,8 @@ Currently contributing to **open-source analytics platforms** and **AI-powered S
 </p>
 
 ---
-
-<p align="center">🔥 <i>"Code. Scale. Iterate. Deliver."</i> 🔥</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2CB&center=true&vCenter=true&width=600&lines=Code.+Scale.+Iterate.+Deliver." alt="SDE Quote Typing Animation" />
+</p>
 
 ⭐️ From [Neeraj-Kondaveeti](https://github.com/Neeraj-Kondaveeti)
