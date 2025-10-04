@@ -44,25 +44,6 @@ Currently exploring **system scalability, DevOps automation, and AI-powered appl
 
 ---
 
-## 🚀 Projects  
-
-### 🛒 Full-Stack E-Commerce Platform  
-🔧 *MongoDB · React · Node.js · Tailwind CSS · JWT · Stripe*  
-- Developed a complete **e-commerce application** with user authentication, product browsing, and payments.  
-- Managed **state with Redux** and integrated **Stripe API** for secure transactions.  
-
-### 🧭 Automated Archaeological Mound Detection  
-🤖 *Python · Machine Learning · YOLOv5 · Jupyter*  
-- Built an **object detection pipeline** for archaeological mound identification using YOLOv5.  
-- Automated data augmentation (CLAHE, rotations, scaling), increasing dataset by **200%** and model accuracy.  
-
-### 📅 AI-Powered Calendar Application  
-⚙️ *React.js · Node.js · Express.js · LLMs · Google Calendar API*  
-- Created an **AI tool** that parses unstructured syllabus PDFs into structured calendar events.  
-- Integrated **OpenAI GPT** and **Google Calendar APIs**, automating scheduling tasks for **100+ users**.  
-
----
-
 ## 🏆 Achievements
 ![trophy](https://github-profile-trophy.vercel.app/?username=Neeraj-Kondaveeti&theme=onedark&row=1)
 
