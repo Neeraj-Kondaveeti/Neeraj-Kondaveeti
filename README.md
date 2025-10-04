@@ -10,15 +10,10 @@
 ---
 
 ## 👨‍💻 About Me  
-<p align="center"><strong>M.S. Computer Science @ Indiana University Bloomington | CGPA: 3.9/4.0</strong></p>  
-
-I’m a **Software Engineer** passionate about designing and building **scalable, high-performance systems** that solve real-world problems.  
-My experience spans **full-stack web development, distributed backend services, and data-driven engineering** — with a strong focus on writing **clean, maintainable, and efficient code**.  
-
-I enjoy working across the stack — from crafting **intuitive UIs** with React and Next.js to designing **robust APIs** with Node.js, Express, and MongoDB.  
-I’m deeply interested in **system design, cloud architecture, and automation**, and I thrive on turning ideas into **production-ready solutions** that scale reliably.  
-
-Currently, I’m contributing to **open-source analytics platforms** and exploring **AI-integrated applications** that enhance developer productivity and data accessibility.  
+I’m a **Software Engineer** focused on building **scalable systems** and **data-driven web applications**.  
+I specialize in the **MERN stack**, **cloud architecture**, and **performance-oriented backend design**.  
+I enjoy solving complex problems through clean code, automation, and thoughtful system design.  
+Currently exploring **system scalability, DevOps automation, and AI-powered applications**.  
 
 ---
 
