@@ -145,6 +145,6 @@ Currently contributing to **open-source analytics platforms** and **AI-powered S
 
 ---
 
-<p align="center">✨ <i>"Building data-driven systems that scale, inform, and inspire."</i> ✨</p>
+<p align="center">🔥 <i>"Code. Scale. Iterate. Deliver."</i> 🔥</p>
 
 ⭐️ From [Neeraj-Kondaveeti](https://github.com/Neeraj-Kondaveeti)
