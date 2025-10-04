@@ -3,24 +3,64 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2CB&center=true&vCenter=true&width=1000&lines=Hi+I'm+Neeraj+Kondaveeti;Software+Engineer;Data+Analyst;Full-Stack+Developer;Cloud+Enthusiast" alt="Typing SVG" />
 </p>
 
+---
 
-# Hi, I'm Neeraj 👋
-
-🚀 Software Engineer | Full-Stack (MERN) | Data Science | Data Analysis | Cloud Enthusiast  
-
-- 🔭 Working on: HighestGoodNetwork (open-source) & AI-powered SaaS projects  
-- 🌱 Learning: System Design, DBMS Internals, Data Structures & Algorithms (DSA), and Advanced React  
-- 💡 Interested in: Scalable Web Apps, ML for Geospatial Data, Open Source Contributions  
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/neeraj-kondaveeti-806b67208/) | nkondav@iu.edu  
+<h1 align="center">👋 Hi, I’m Neeraj Kondaveeti</h1>
 
 ---
 
-## 📊 GitHub Stats
+## 👨‍💻 About Me  
+<p align="center"><strong>M.S. Computer Science @ Indiana University Bloomington | CGPA: 3.9/4.0</strong></p>  
 
-![Neeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neeraj-Kondaveeti&show_icons=true&theme=radical)
+I’m a **Software Engineer** passionate about building **data-driven systems** that combine **AI, analytics, and scalable full-stack design**.  
+I enjoy solving real-world challenges using **modern web technologies** and **cloud infrastructure** — whether it’s deploying dashboards, automating workflows, or optimizing pipelines.  
+Currently contributing to **open-source analytics platforms** and **AI-powered SaaS applications**, while constantly improving in **system design**, **DSA**, and **software architecture**.  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj-Kondaveeti&layout=compact&theme=radical)
+---
 
+## 🎯 Core Competencies  
+- **Full-Stack Development:** MERN, Next.js, Express.js, Tailwind CSS  
+- **Data Analytics & Visualization:** MySQL, Apache Superset, Python (Pandas, Matplotlib)  
+- **Machine Learning & AI:** YOLOv5, TensorFlow, LLMs (OpenAI GPT), Data Augmentation  
+- **Cloud & DevOps:** AWS, Azure, Docker, CI/CD, Vercel  
+- **Databases:** MongoDB, MySQL, PostgreSQL, Oracle  
+- **Programming Languages:** JavaScript (ES6), Python, TypeScript, Java, SQL  
+
+---
+
+## 💼 Experience  
+
+### 🌍 One Community / Highest Good Network — *Software Engineer* (Jun 2025 – Present)  
+- Built and deployed analytics dashboards using the **MERN stack**, enhancing visibility for **200+ users** and reducing reporting time by **25%**.  
+- Improved **Redux state management** and backend APIs, achieving **30% faster API responses** and **20% faster feature rollouts**.  
+- Strengthened UI accessibility and modularity to support scalable team collaboration.  
+
+### 🎓 Indiana University Bloomington — *Graduate Research Assistant (GeoAI Projects)* (Feb 2025 – Jun 2025)  
+- Applied **ML pipelines** to **500GB+ geospatial datasets**, improving model accuracy by **15%** and reducing inference latency by **30%**.  
+- Automated dataset generation via Python, scaling dataset size **2×** for improved model generalization.  
+
+### 💻 Reliance Jio — *Data Analyst* (Jun 2022 – Jun 2023)  
+- Designed and launched **KPI dashboards** with **MySQL + Superset**, serving **10,000+ users** across multiple departments.  
+- Streamlined SQL pipelines with modularized queries, cutting manual validation time by **30%**.  
+
+---
+
+## 🚀 Projects  
+
+### 🛒 Full-Stack E-Commerce Platform  
+🔧 *MongoDB · React · Node.js · Tailwind CSS · JWT · Stripe*  
+- Developed a complete **e-commerce application** with user authentication, product browsing, and payments.  
+- Managed **state with Redux** and integrated **Stripe API** for secure transactions.  
+
+### 🧭 Automated Archaeological Mound Detection  
+🤖 *Python · Machine Learning · YOLOv5 · Jupyter*  
+- Built an **object detection pipeline** for archaeological mound identification using YOLOv5.  
+- Automated data augmentation (CLAHE, rotations, scaling), increasing dataset by **200%** and model accuracy.  
+
+### 📅 AI-Powered Calendar Application  
+⚙️ *React.js · Node.js · Express.js · LLMs · Google Calendar API*  
+- Created an **AI tool** that parses unstructured syllabus PDFs into structured calendar events.  
+- Integrated **OpenAI GPT** and **Google Calendar APIs**, automating scheduling tasks for **100+ users**.  
 
 ---
 
@@ -30,9 +70,9 @@
 ---
 
 ## 🚀 Highlight Projects
-- [**ECommerce MERN**](https://github.com/Neeraj-Kondaveeti/ECommerce_MERN-) – Full-stack platform with Stripe payments and Redux state management.  
-- [**Background Remover SaaS**](https://github.com/Neeraj-Kondaveeti/BackGround-Remover-App) – AI-powered image background remover with sub-2s processing.  
-- [**Automated Archaeological Detection**](https://github.com/Neeraj-Kondaveeti/Projects/tree/main/Automatic%20Mounds%20Detection) – YOLOv5 + geospatial ML pipeline for mound detection.  
+- [**ECommerce MERN**](https://github.com/Neeraj-Kondaveeti/ECommerce_MERN-) – Full-stack platform with **Stripe payments** and **Redux** state management.  
+- [**Background Remover SaaS**](https://github.com/Neeraj-Kondaveeti/BackGround-Remover-App) – **AI-powered** image background removal with sub-2s processing.  
+- [**Automated Archaeological Detection**](https://github.com/Neeraj-Kondaveeti/Projects/tree/main/Automatic%20Mounds%20Detection) – **YOLOv5 + Geospatial ML pipeline** for remote-sensing automation.  
 
 ---
 
@@ -95,5 +135,16 @@
 </p>
 
 ---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Neeraj-Kondaveeti&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neeraj-Kondaveeti&theme=tokyonight&hide_border=true" height="180em"/>
+</p>
+
+---
+
+<p align="center">✨ <i>"Building data-driven systems that scale, inform, and inspire."</i> ✨</p>
 
 ⭐️ From [Neeraj-Kondaveeti](https://github.com/Neeraj-Kondaveeti)
