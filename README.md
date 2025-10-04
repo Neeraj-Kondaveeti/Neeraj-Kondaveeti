@@ -12,9 +12,13 @@
 ## 👨‍💻 About Me  
 <p align="center"><strong>M.S. Computer Science @ Indiana University Bloomington | CGPA: 3.9/4.0</strong></p>  
 
-I’m a **Software Engineer** passionate about building **data-driven systems** that combine **AI, analytics, and scalable full-stack design**.  
-I enjoy solving real-world challenges using **modern web technologies** and **cloud infrastructure** — whether it’s deploying dashboards, automating workflows, or optimizing pipelines.  
-Currently contributing to **open-source analytics platforms** and **AI-powered SaaS applications**, while constantly improving in **system design**, **DSA**, and **software architecture**.  
+I’m a **Software Engineer** passionate about designing and building **scalable, high-performance systems** that solve real-world problems.  
+My experience spans **full-stack web development, distributed backend services, and data-driven engineering** — with a strong focus on writing **clean, maintainable, and efficient code**.  
+
+I enjoy working across the stack — from crafting **intuitive UIs** with React and Next.js to designing **robust APIs** with Node.js, Express, and MongoDB.  
+I’m deeply interested in **system design, cloud architecture, and automation**, and I thrive on turning ideas into **production-ready solutions** that scale reliably.  
+
+Currently, I’m contributing to **open-source analytics platforms** and exploring **AI-integrated applications** that enhance developer productivity and data accessibility.  
 
 ---
 
@@ -141,12 +145,6 @@ Currently contributing to **open-source analytics platforms** and **AI-powered S
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Neeraj-Kondaveeti&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neeraj-Kondaveeti&theme=tokyonight&hide_border=true" height="180em"/>
-</p>
-
----
-## 📈 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neeraj-Kondaveeti&bg_color=0d1117&color=00C2CB&line=00C2CB&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ---
